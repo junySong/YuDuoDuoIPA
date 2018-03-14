@@ -11,19 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
+<<<<<<< Updated upstream
 					<string>https://github.com/junySong/YuDuoDuoIPA/blob/master/dev/1.4.0/apartment.ipa</string>
+=======
+					<string>https://raw.githubusercontent.com/junySong/YuDuoDuoIPA/master/dev/1.4.0/apartment.ipa</string>
+>>>>>>> Stashed changes
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
+<<<<<<< Updated upstream
 					<string>https://github.com/junySong/YuDuoDuoIPA/blob/master/57x57.jpg</string>
+=======
+					<string>https://raw.githubusercontent.com/junySong/YuDuoDuoIPA/master/57x57.jpg</string>
+>>>>>>> Stashed changes
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
+<<<<<<< Updated upstream
 					<string>https://github.com/junySong/YuDuoDuoIPA/blob/master/512x512.jpg</string>
+=======
+					<string>https://raw.githubusercontent.com/junySong/YuDuoDuoIPA/master/512x512.jpg</string>
+>>>>>>> Stashed changes
 				</dict>
 			</array>
 			<key>metadata</key>
